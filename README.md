@@ -36,7 +36,7 @@ A collection of data science, machine learning, and analytics projects spanning 
  
 | # | Project | Description | Stack | Highlights | Link |
 |---|---------|-------------|-------|------------|------|
-| 1 | 🛒 Walmart Sales Analysis | SQL analysis of Walmart sales covering product performance, revenue, and customer behaviour | SQL | 20+ business questions · Revenue by product, city & month · Branch-level ratings | [View](https://github.com/Sarvesh-projects/Walmart_Data_Analysis) |
+| 1 | 🛒 Walmart Sales Analysis | SQL analysis of Walmart sales covering product performance, revenue, and customer behaviour | SQL | 20+ business questions · Revenue by product, city & month · Branch-level ratings | [View](https://github.com/Sarvesh-projects/Walmart_Sales_Analysis) |
 | 2 | 🚗 Toronto Collision Analysis | Analysis of Toronto collision data identifying risk patterns and high-severity zones | Python / SQL | 6 PM peak danger hour · Friday highest volume (122,976 cases) · Severity scored across 25+ neighbourhoods | [View](https://github.com/Sarvesh-projects/Toronto_Collision_Analysis) |
 | 3 | ⚡ Canada Electric Co. Usage Analysis | Electricity consumption pattern analysis for a Peterborough, Ontario utility provider | Python, Pandas, Seaborn | 19:00–21:00 demand spike 45–60% above baseline · Friday early-peak at 16:30 · Sunday 32% below avg | [View](https://github.com/Sarvesh-projects/Canada_Electric_Co._Usage_Analysis) |
 | 4 | 📉 Top 25 CAD Stocks Snapshot | Web scraping project capturing the top 25 most active Canadian stocks from Yahoo Finance | Python, BeautifulSoup, Pandas | Live data scraped from Yahoo Finance · Snapshot dated July 20, 2024 | [View](https://github.com/Sarvesh-projects/Top_25_CAD_Stocks_Snapshot) |
