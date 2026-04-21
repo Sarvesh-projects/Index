@@ -8,7 +8,7 @@ A collection of data science, machine learning, and analytics projects spanning 
  
 | # | Project | Description | Stack | Highlights | Link |
 |---|---------|-------------|-------|------------|------|
-| 1 | 🛡️ Insurance Claims Fraud — SQL | SQL investigation of 15,420 auto insurance claims to identify fraud risk patterns and operational signals | PostgreSQL, DBeaver, Window Functions | Sport-Collision 14% fraud rate · Spring Q2 hotspot · 75% fraud rate on address changes within 6 months | [View →](https://github.com/Sarvesh-projects/SQL_Claims_Fraud_Analysis) |
+| 1 | 🛡️ Insurance Claims Fraud — SQL | SQL investigation of 15,420 auto insurance claims to identify fraud risk patterns and operational signals | PostgreSQL, DBeaver, Window Functions | Sport-Collision 14% fraud rate · Spring Q2 hotspot · 75% fraud rate on address changes within 6 months | [View →](https://github.com/Sarvesh-projects/Insurance_Claims_Fraud-SQL) |
 | 2 | 🛡️ Insurance Fraud Detection System | Production-ready ML API for detecting fraudulent insurance claims | Python, LightGBM, FastAPI, Docker | 78% recall on 6.4% imbalanced dataset · Threshold optimized to 0.4 · Deployed on Render | [View →](https://github.com/Sarvesh-projects/Insurance_Fraud_Detection_System) |
 | 3 | 📡 Telco Churn Prediction Pipeline | End-to-end ML pipeline predicting customer churn with a recall-first strategy | Python, Balanced Random Forest, Optuna, FastAPI, Docker | 86% recall after 100 Optuna trials · Threshold tuned to 0.4 · Containerized REST API | [View →](https://github.com/Sarvesh-projects/Telco_Churn_Prediction_Pipeline) |
  
@@ -28,7 +28,7 @@ A collection of data science, machine learning, and analytics projects spanning 
  
 | # | Project | Description | Stack | Highlights | Link |
 |---|---------|-------------|-------|------------|------|
-| 1 | 🔍 Transaction Anomaly Detection | ML pipeline detecting fraudulent transactions with LLM-generated evaluation reports | Python, LightGBM, CatBoost, LangChain, Gemini | 19 thresholds evaluated per model · Champion by AUC-ROC · ~150 token context vs. 50,000 | [View →](https://github.com/Sarvesh-projects/Transaction_anomaly) |
+| 1 | 🔍 Transaction Anomaly Detection | ML pipeline detecting fraudulent transactions with LLM-generated evaluation reports | Python, LightGBM, CatBoost, LangChain, Gemini | 19 thresholds evaluated per model · Champion by AUC-ROC · ~150 token context vs. 50,000 | [View →](https://github.com/Sarvesh-projects/Transaction_Anomaly_Detection) |
  
 ---
  
