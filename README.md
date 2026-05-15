@@ -20,7 +20,7 @@ A collection of data science, machine learning, and analytics projects spanning 
 |---|---------|-------------|-------|------------|------|
 | 1 | 🏠 House Price Predictor | End-to-end regression pipeline predicting house prices with deployment | Python, XGBoost, Optuna, FastAPI, Docker | MAE ≈ 40,060 · R² ≈ 0.939 · Outperformed Linear, Ridge, Lasso, ElasticNet & TensorFlow | [View](https://github.com/Sarvesh-projects/House_Price_Predictor) |
 | 2 | 📰 Fake News Classifier | NLP project comparing ML, deep learning, and FastText for fake news detection | Python, spaCy, scikit-learn, TensorFlow, FastText | FastText 97% accuracy · TensorFlow 96% · Three distinct cleaning pipelines benchmarked | [View](https://github.com/Sarvesh-projects/Fake_News_Classifier) |
-| 3 | 💳 Credit Risk Model | ML model classifying loan applicants as good or bad credit risk | Python, Random Forest, XGBoost, Grid Search | Random Forest best at 77% accuracy · Credit amount & savings balance top predictors | [View](https://github.com/Sarvesh-projects/Credit_Risk_Model) |
+| 3 | 💳 Credit Risk Model | ML system  predicting loan amount approved | Python, scikit-learn, Pipeline, Tensorflow, Streamlit | Lightgbm + RandomForest ensemble RMSE ≈ 4,143.53 · R² ≈ 0.83 · wrapped in a polished 3-step Streamlit application | [View](https://github.com/Sarvesh-projects/Credit-Risk-Loan-Amount-Prediction) |
  
 ---
  
